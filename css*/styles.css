@@ -1,13 +1,13 @@
 body {
 	font-size: 16px;
 	color: white;
-	background-color: #8243d6;
+	background-color: black;
 	font-family: 'Lobster', cursive;
 }
 
 /* HEADER */
 #header-nav {
-	background-color: #530fad;
+	background-color: white;
 	border-radius: 0;
 	border: 0;
 	color: white;
