@@ -10,7 +10,7 @@ body {
 	background-color: white;
 	border-radius: 0;
 	border: 0;
-	color: white;
+	color: gold;
 }
 
 .navbar-brand p {
@@ -48,7 +48,7 @@ body {
 	text-align: justify;
 	margin-bottom: 20px;
 	padding: 12px;
-	color: gold;
+	color: black;
 }
 /* End Section */
 
