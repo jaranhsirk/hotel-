@@ -7,10 +7,10 @@ body {
 
 /* HEADER */
 #header-nav {
-	background-color: white;
+	background-color:violet ;
 	border-radius: 0;
 	border: 0;
-	color: gold;
+	color: white;
 }
 
 .navbar-brand p {
