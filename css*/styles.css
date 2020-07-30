@@ -27,8 +27,7 @@ body {
         text-transform: uppercase;
         font-weight: bold;
         text-shadow: 1px 1px 1px #222;
-        margin-top: 0;
-        margin-bottom: 0;
+   text allign:centre; 
         line-height: .75;
     }
 
@@ -64,18 +63,6 @@ body {
 .navbar-header button.navbar-toggle {
     margin-top: 20px;
 }
-/*End Header*/
-
-/*Main-content*/
-#chicken,
-#beef,
-#shushi{
-    background-color:#F6B319;
-    padding:5px 15px;
-    margin-bottom: 30px;
-}
-
-/*End Main-content*/
 
 
 /********** Extra small devices only **********/
