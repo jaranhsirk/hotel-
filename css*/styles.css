@@ -63,9 +63,9 @@ body {
 /* END HEADER */
 #main-content .jumbotron h2 {
     color: white;
-    margin-top: -4px;
     text-align: center;
-    margin-bottom: 20px
+}
+   
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
