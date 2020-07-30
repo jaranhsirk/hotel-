@@ -1,17 +1,18 @@
 
 body {
     font-size: 16px;
-    color: #ffffff;
-    background-color: #61122f;
-    font-family: 'Oxygen', sans-serif;
+    color: white;
+    background-color: black;
+    font-family: 'Lobster', cursive;
     padding-top:80px;
 }
 /*Header*/
 
 #header-nav {
-    background-color: #f6b319;
+    background-color: violet;
     border-radius: 0;
     border: 0;
+    color:white
 }
 
 .navbar-brand {
@@ -20,8 +21,8 @@ body {
 }
 
     .navbar-brand h1 {
-        font-family: 'Lora', serif;
-        color: #61122f;
+        font-family: 'Lobster', cursive;
+        color: gold;
         font-size: 2em;
         text-transform: uppercase;
         font-weight: bold;
@@ -73,13 +74,6 @@ body {
     padding:5px 15px;
     margin-bottom: 30px;
 }
-
-#chicken p,
-#beef p,
-#shushi p{
-    padding:15px;
-}
-
 
 /*End Main-content*/
 
