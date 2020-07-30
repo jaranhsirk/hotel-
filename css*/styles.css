@@ -30,8 +30,8 @@ body {
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
-text align :center;
-  left-margin:50%;
+text-align :center;
+  left-margin:60%;
   line-height: .75;
 }
 
@@ -65,7 +65,7 @@ text align :center;
 #main-content.jumbotron h2 {
     color: white;
     text-align: center;
-  left-margin:50%;
+  left-margin:60%;
 }
 /* END HEADER */
 
